@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>lam bg.jpg</file>
-    <file>lam logo.png</file>
-  </qresource>
-</RCC>
